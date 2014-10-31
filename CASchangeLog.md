@@ -25,3 +25,31 @@ You can now narrow down the list of resources to just the ones that you liked, s
 
 It also gives a more explicit measure of popularity of a resource, which is factored into the popularity ranking.
 
+[Sep 23 2012, 10:06](http://community.computingatschool.org.uk/forums/2/topics/194#post_1165)
+
+The popularity-ordered list already existed before. Until now, the popularity ranking was implicit: Popularity was determined by a combination of engagement factors: Number of views, number of comments, number of edits and number of downloads of associated files (all with different weightings), weighted again against age. Number of file downloads had the greatest weight.
+
+This model worked well for other community resource sites, such as the Greenroom, built on the same infrastructure platform.
+
+However, it turns out that on CAS Online, there are many resources that have no associated files (but are – essentially – just a wiki page). These types of resources had little chance to float to the top in our model, even if they were very popular.
+
+So we are now changing to an explicit popularity model (you say what you like), to represent this more fairly. But it now depends on all of you pressing the button!
+
+So, please help your community by telling everyone what you like (and what you don’t).
+
+(Actually, the other engagement factors are still included, but with low weight. ‘Likes’ have the strongest popularity weight now.)
+
+[Sep 23 2012, 10:06](http://community.computingatschool.org.uk/forums/2/topics/194#post_1165)
+
+The popularity-ordered list already existed before. Until now, the popularity ranking was implicit: Popularity was determined by a combination of engagement factors: Number of views, number of comments, number of edits and number of downloads of associated files (all with different weightings), weighted again against age. Number of file downloads had the greatest weight.
+
+This model worked well for other community resource sites, such as the Greenroom, built on the same infrastructure platform.
+
+However, it turns out that on CAS Online, there are many resources that have no associated files (but are – essentially – just a wiki page). These types of resources had little chance to float to the top in our model, even if they were very popular.
+
+So we are now changing to an explicit popularity model (you say what you like), to represent this more fairly. But it now depends on all of you pressing the button!
+
+So, please help your community by telling everyone what you like (and what you don’t).
+
+(Actually, the other engagement factors are still included, but with low weight. ‘Likes’ have the strongest popularity weight now.)
+
